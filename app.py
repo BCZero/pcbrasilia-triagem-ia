@@ -53,8 +53,9 @@ def norm(t):
 
 KB = [
  {'tema':'violencia domestica','texto':'Priorizar segurança da vítima, Lei Maria da Penha, medidas protetivas, preservação de evidências.'},
- {'tema':'homicidio','texto':'Isolar local, preservar vestígios, acionar perícia, identificar testemunhas.'},
+ {'tema':'homicidio','texto':'Isolar local, preservar vestígios, acionar perícia, identificar testemunhas, buscar imagens de câmeras e salvar no Proced.'},
  {'tema':'ameaca','texto':'Registrar circunstâncias, avaliar risco, preservar mensagens.'},
+ {'tema':'furto','texto':'Registrar circunstâncias, cadastrar objetos envolvidos, perguntar/salvar imagens de sistema de monitoramento, avaliar se houve arrombamento e caso sim, solicitar perícia.'},    
 ]
 
 def recuperar_rag(pergunta):
